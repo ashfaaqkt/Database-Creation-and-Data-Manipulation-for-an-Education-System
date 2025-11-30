@@ -77,7 +77,7 @@ The SQL results visualize institutional behavior:
 
 🎯 Project Value
 
-This project demonstrates your ability to:
+This project demonstrates my ability to:
 	•	Design normalized relational database structures
 	•	Implement real-world entity relationships (1–M, M–M)
 	•	Perform CRUD & DDL operations
